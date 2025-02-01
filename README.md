@@ -1,2 +1,2 @@
 # Hawk-breaker
-Just a chill project for a crick-breaker, I'm bored
+Just a chill project for a brick-breaker, I'm bored
