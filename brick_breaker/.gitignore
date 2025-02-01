@@ -1,0 +1,19 @@
+# Archivos/Carpetas de Python y caché
+__pycache__/
+*.py[cod]
+
+# Entorno virtual
+venv/
+
+# Configuración de editores (VSCode, PyCharm, etc.) 
+.vscode/
+.idea/
+
+# Otros ejemplos
+.DS_Store
+Thumbs.db
+
+# Distribución y empaquetado
+build/
+dist/
+*.egg-info/
